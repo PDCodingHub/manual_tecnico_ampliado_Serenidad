@@ -1,0 +1,16 @@
+Buenos días,
+El documento es el manual técnico para la aplicación SERENIDAD
+
+En la entrega de la semana pasada, por motivos de tiempo no pude entregar el apartado de despliegue 
+y también me di cuenta que el índice no estaba hecho correctamente.
+
+He corregido el segundo error y hecho correctamente el apartado del despliegue.
+
+Tengo constancia de que el plazo de entrega ha finalizado y posiblemente esto no se pueda tener en cuenta.
+
+Simplemente quería dejar el documento más cerca de cómo me hubiera gustado entregarlo en su momento, además
+que se pueda percibir cómo se ha realizado el despliegue, ya que no he comentado nada al respecto la semana anterior.
+
+Recibid un cordial saludo.
+
+	Pablo.
